@@ -35,7 +35,7 @@
             <a class="js-scroll-trigger" href="#page-top">Acceuil</a>
         </li>
         <li class="sidebar-nav-item">
-            <a class="js-scroll-trigger" href="/store">Vitrine en lignem</a>
+            <a class="js-scroll-trigger" href="/store">Vitrine en ligne</a>
         </li>
         @guest()
         <li class="sidebar-nav-item">
